@@ -1,0 +1,14 @@
+- npm init -y 
+- npm i express multer uuid dotenv morgan cors(No se puede nombrar el proyecto igual)
+- npm i -D nodemon 
+- Config script
+- Config scaffolding -> Andamio (index, routes -> routes)
+- En el index definir las dependencias de un backend básico, crear el .env y poner la ruta
+- Crear archivo de multer y configurarlo
+- Utilizar el archivo routes y creamos el método post y validar si hay un error
+- Probar con Postman con definición de variables 
+
+
+- COMPLEMENTAR CON TEORÍA DE DOCUMENTO
+
+HTML - Boostrap, Material UI
